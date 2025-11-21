@@ -29,13 +29,12 @@ O objetivo principal é promover a autonomia e a inclusão social de pessoas com
 ## 🚀 Funcionalidades
 
 ### Óculos (IoT & Embedded)
-* 🎙️ **Transcrição em Tempo Real:** Captação e conversão de voz para texto instantaneamente.
-* 🔒 **Processamento Offline:** Utiliza modelos de IA locais (Picovoice/Vosk) rodando no Orange Pi, garantindo privacidade e funcionamento sem internet.
+* 🎙️ **Transcrição:** Captação e conversão de voz para texto em poucos milissegundos.
+* 🔒 **Processamento Offline:** Utiliza modelos de IA locais (Picovoice) rodando no Orange Pi, garantindo privacidade e funcionamento sem internet.
 * 👓 **Projeção HUD:** Exibição do texto nas lentes utilizando display OLED e espelhos divisores de feixe (*Beam Splitter*).
-* 🔋 **Monitoramento de Bateria:** Leitura precisa da carga com alertas de bateria fraca.
 
 ### Aplicativo Móvel (Gerenciamento)
-* 📱 **Emparelhamento:** Conexão via Wi-Fi/Bluetooth com os óculos.
+* 📱 **Emparelhamento:** Conexão via Bluetooth com os óculos.
 * 📝 **Histórico de Conversas:** Salvamento local das transcrições para leitura posterior.
 * ⚙️ **Personalização:**
     * Ajuste de tamanho da fonte.
