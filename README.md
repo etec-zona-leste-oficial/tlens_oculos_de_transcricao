@@ -67,8 +67,8 @@ O projeto foi construído visando o custo-benefício e a eficiência energética
 
 ### Embedded & Backend (IoT)
 * ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) **Python**: Scripts de controle de hardware e integração com IA.
-* ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) **Ubuntu Server / Armbian**: Sistema operacional do Orange Pi.
-* **Picovoice / Vosk**: Bibliotecas de reconhecimento de fala offline.
+* ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) **Armbian**: Sistema operacional do Orange Pi.
+* **Picovoice**: Bibliotecas de reconhecimento de fala offline.
 * **Shell Script**: Automação de tarefas no sistema operacional.
 
 ### Design & Prototipagem
@@ -94,7 +94,3 @@ Trabalho desenvolvido pelos alunos do curso MTec Desenvolvimento de Sistemas AMS
 **Orientador:** Prof. Esp. Jeferson Roberto de Lima
 
 ---
-
-<p align="center">
-  Feito com 💙 e tecnologia assistiva.
-</p>
